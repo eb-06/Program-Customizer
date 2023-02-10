@@ -3,6 +3,11 @@
 * Stores all changed data onto a downloadable json file.
 
 ## Examples:
+__Basic web page design and example of product.__
+* <img src="https://github.com/eb-06/Program-Customizer/blob/main/Examples/Example_1.PNG">
+
+__JSON file with saved data.__
+* <img src="https://github.com/eb-06/Program-Customizer/blob/main/Examples/Example_2.PNG">
 
 ![HTML](https://img.shields.io/badge/html-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white)
