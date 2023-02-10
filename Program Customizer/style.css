@@ -1,0 +1,25 @@
+.topbar {
+    background-color: #3C3C3C; 
+    width: 801px; 
+    height: 32px; 
+    position: absolute;
+}
+.list {
+    background-color: #3C3C3C; 
+    position: absolute;
+    right: 0;
+    width: 123px;
+    height: 315px;
+}
+.buttons {
+    background-color: #3C3C3C; 
+    position: absolute;
+    width: 801px;
+    height: 40px;
+    top: 315px;
+}
+.program {
+    display: block;
+    position: relative;
+    width: 801px; 
+}
